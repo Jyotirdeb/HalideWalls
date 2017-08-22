@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Halide Gallery</string>
+  <string name="hubble">Halide</string>
+  <string name="title_activity_act_onboarding">Welcome</string>
+
+  <!-- main -->
+  <string name="favorites">Favorites</string>
+  <string name="search">Search</string>
+  <string name="about">About</string>
+  <string name="rate">Review &amp; share</string>
+
+  <string name="sort_by">Sort by</string>
+  <string name="most_popular">Most popular</string>
+  <string name="highest_resolution">Highest resolution</string>
+  <string name="title_activity_act_details">Details</string>
+
+  <!-- details -->
+  <string name="set_as">Set image as&#8230;</string>
+  <string name="share_image">Share image</string>
+  <string name="save_image">Save image</string>
+  <string name="open_in_browser">Open in browser</string>
+  <string name="share_link">Share link</string>
+  <string name="copy_link">Copy link</string>
+  <string name="add_favorite">Add to favorites</string>
+  <string name="remove_favorite">Remove from favorites</string>
+
+  <string name="error_saving_image">Error during image saving</string>
+  <string name="image_saved">Image saved to /Pictures/Halide</string>
+  <string name="image_fullscreen">Show image fullscreen</string>
+
+  <!-- zero states -->
+  <string name="zero_state_favorites_1">Explore and favorite images, they\'ll show up here</string>
+  <string name="zero_state_favorites_2">You have no favorites&#8230; yet</string>
+  <string name="zero_state_favorites_3">We are sure you\'ll find some favorites!</string>
+
+  <!-- error states -->
+  <string name="no_connection">No or poor internet connection</string>
+  <string name="retry">Retry</string>
+  <string name="reload">Reload</string>
+  <string name="error_loading_image">Error loading image</string>
+
+  <!-- on boarding -->
+  <string name="scroll_down">Scroll down</string>
+  <string name="enter">Enter</string>
+    <string name="info_1">Halide Walls is a wallpaper app
+        with the objective of allowing you to view and download wallpapers for your devices.</string>
+
+    <string name="info_2">We generally provide Hi-Resolution images in categorized fromat.
+    These images can be used to set as wallpaper or you may also view them as you like.
+    All the images have been carefully uploaded to our servers and are free to view or download them.</string>
+
+    <string name="info_3"><![CDATA[
+    The content showcased in this app comes from our servers, run by us. Halide Walls is an
+    <a href=\“https://github.com/Jyotirdeb/\”>closed source project</a>.
+    Maintained by <a href=\“https://www.facebook.com/jyotirdeb.mukherjee\”>Jyotirdeb</a>. If you\'re feeling generous,
+    send some money to <a href=\"https://www.paypal.me/\">PayPal</a>
+    to help keep this project going!
+    ]]></string>
+
+  <!-- about -->
+  <string name="built_by">Built by —</string>
+  <string name="source_code">View source code</string>
+  <string name="show_intro">Show intro</string>
+  <string name="about_body"><![CDATA[
+
+      <p>
+        Maintained by <a href=\“https://plus.google.com/u/0/+JyotirdebMukherjee/\”>Jyotirdeb Mukherjee</a>,
+        follow me on Facebook <a href=\“https://www.facebook.com/jyotirdeb.mukherjee\”>Jyotirdeb</a> to say hi. Or
+        even better, send some money to <a href=\"https://www.paypal.me/\">PayPal</a>
+        to help keep this project going! <3
+      </p>
+
+      </p>
+        <i>Contributions from:</i>
+        <br>
+        - <a href=\“https://github.com/Jyotirdeb/\”>Jyotirdeb</a>
+      </p>
+
+      <br>
+
+      <p>
+        Halide Walls is an closed source project
+        <a href=\“https://github.com/Jyotirdeb/\”>Halide Walls</a>
+        <b>stars</b> are much appreciated. If you\'re interested in contributing that\'s awesome! Please see
+        the README guidelines and I\'d be more than happy to help merge your projects.
+      </p>
+
+      <p>
+        The content showcased in this app comes from <a href=\"http://hubblesite.org/\">HalideWalls</a>,
+        run by us.
+      </p>
+
+      <p>
+      <i><b>Disclaimer:</b></i>
+        <br>
+        I have no affiliation with any images from NASA, National Geographic or Google. All source code for
+        this project is licensed under the
+        <a href=\"http://www.apache.org/licenses/LICENSE-2.0\">Apache License Version 2.0</a>.
+      </p>
+
+  ]]></string>
+
+  <!-- font faces -->
+  <string name="roboto_black">fonts/Roboto-Black.ttf</string>
+  <string name="roboto_black_italic">fonts/Roboto-BlackItalic.ttf</string>
+  <string name="roboto_bold">fonts/Roboto-Bold.ttf</string>
+  <string name="roboto_bold_italic">fonts/Roboto-BoldItalic.ttf</string>
+  <string name="roboto_regular">fonts/Roboto-Regular.ttf</string>
+  <string name="roboto_thin">fonts/Roboto-Thin.ttf</string>
+  <string name="roboto_thin_italic">fonts/Roboto-ThinItalic.ttf</string>
+  <string name="roboto_italic">fonts/Roboto-Italic.ttf</string>
+  <string name="roboto_light">fonts/Roboto-Light.ttf</string>
+  <string name="roboto_light_italic">fonts/Roboto-LightItalic.ttf</string>
+  <string name="roboto_medium">fonts/Roboto-Medium.ttf</string>
+  <string name="roboto_medium_italic">fonts/Roboto-MediumItalic.ttf</string>
+
+  <string name="roboto_condensed_bold">fonts/RobotoCondensed-Bold.ttf</string>
+  <string name="roboto_condensed_bold_italic">fonts/RobotoCondensed-BoldItalic.ttf</string>
+  <string name="roboto_condensed_italic">fonts/RobotoCondensed-Italic.ttf</string>
+  <string name="roboto_condensed_light">fonts/RobotoCondensed-Light.ttf</string>
+  <string name="roboto_condensed_light_italic">fonts/RobotoCondensed-LightItalic.ttf</string>
+  <string name="roboto_condensed_regular">fonts/RobotoCondensed-Regular.ttf</string>
+
+  <string name="navigation_drawer_open">Open</string>
+  <string name="navigation_drawer_close">Close</string>
+
+  <string name="title_activity_act_image_viewer">ImageViewer</string>
+  <string name="dummy_button">Dummy Button</string>
+  <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
